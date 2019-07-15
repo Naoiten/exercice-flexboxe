@@ -1,0 +1,68 @@
+#conteneur
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.elementred {
+  color: red;
+background-color: red;
+height: 50px;
+width: 50%;
+order:1;
+ }
+.elementgreen{
+  color:green;
+   background-color: green;
+   width: 20%;
+   height: 50px;
+   order:2;
+ }
+.elementyellow{
+  color: yellow;
+   background-color: yellow;
+   width: 30%;
+   height: 50px;
+   order:3;
+ }
+.elementblue{
+  color: blue;
+   background-color: blue;
+   height: 50px;
+   width: 20%;
+   order:4;
+ }
+.elementorange{
+  color: orange;
+   background-color: orange;
+   width: 40%;
+   height: 50px;
+   order:5;
+ }
+.elementblack{
+  color: black;
+   background-color: black;
+   width: 40%;
+   height: 50px;
+   order: 6
+ }
+.elementpurple{
+  color: purple;
+  background-color: purple;
+  width: 33%;
+  height: 50px;
+  order: 7;
+}
+.elementbrown{
+  color: brown;
+   background-color: brown;
+   width: 33%;
+   height: 50px;
+   order: 8
+ }
+.elementpink{
+  color: pink;
+  background-color: pink;
+  width: 34%;
+  height: 50px;
+  order: 9
+}
